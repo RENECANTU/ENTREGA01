@@ -1,0 +1,66 @@
+html{
+    font-family: 'Big Shoulders Inline Display', cursive;
+font-family: 'Cantarell', sans-serif;
+font-family: 'Darker Grotesque', sans-serif;
+    font-size: 62.5%;     /* Normalizar para REMS */
+}
+
+body{
+    font-size: 1.6rem;
+}
+
+/* Principales */
+h1{
+    font-size: 4rem;
+
+}
+h2{
+    font-size: 3.6rem;
+}
+
+h3{
+    font-size: 3rem;
+}
+
+h4{
+    font-size: 2.6rem;
+}
+
+.contenedor{
+    max-width: 120rem;
+    margin: 0 auto;
+}
+
+.espacio{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.fw300{
+    font-weight: 300;
+}
+.centrar-texto{
+    text-align: center;
+}
+
+img{
+    max-width: 100%;
+}
+
+.boton{
+    color: white;
+    font-weight: 500;
+    text-decoration: none;
+    padding: 1rem 3rem;
+    margin-top: 2rem;
+    display: block;
+    border-style: double;
+    border-radius: 3rem;
+}
+
+.boton-principal{
+    background-color: rgb(0, 0, 128);
+    height: 100re;
+    
+}
+
+
